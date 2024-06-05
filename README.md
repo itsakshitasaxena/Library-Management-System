@@ -1,6 +1,6 @@
 # Library-Management-System
-'''# LMS -> Library management system
-Features ?
+
+'''Features ?
 -> Issue a book
 -> Return a book
 -> Display all books
@@ -92,8 +92,7 @@ def returnBook():
     print("The book is returned successfully!")
 
 
-# ======================== Main Program =============================
-
+# ====== Main Program =======
 while 1:
   print('1. Display Books')
   print('2. Add a Book')
